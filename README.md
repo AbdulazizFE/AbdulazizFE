@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulaziz</h1>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&background=FFFFFF00&center=true&vCenter=true&lines=.Net+Developer)](https://github.com/AbdulazizFE)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&background=FFFFFF00&center=true&vCenter=true&lines=.Net+Developer)]([https://github.com/AbdulazizFE](https://www.linkedin.com/in/abdulaziz-alsayed-ahmad-35883322a/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
