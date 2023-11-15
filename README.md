@@ -18,3 +18,4 @@
 
  </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulazizfe&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="abdulazizfe" /></p>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6424f6b8-2489-4efc-97fc-d9f33efb55cd" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
