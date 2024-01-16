@@ -1,7 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Abdulaziz</h1>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&background=FFFFFF00&center=true&vCenter=true&lines=.Net+Developer)](https://github.com/AbdulazizFE)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&background=FFFFFF00&center=true&vCenter=true&lines=.Net+Developer)]([https://github.com/AbdulazizFE]([https://www.linkedin.com/in/abdulaziz-alsayed-ahmad-35883322a/)](https://github.com/AbdulazizFE))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -10,13 +11,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<!-- Add Episerver image -->
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.getadigital.com%2Fpartners%2Foptimizely&psig=AOvVaw1GDJ_romo4YGAV74WiJzj9&ust=1705494535813000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODqr7H04YMDFQAAAAAdAAAAABAD" alt="Episerver" height="50" width="150" />
 
-<!-- Other language and tool icons remain unchanged -->
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<!-- Add other language and tool icons as needed -->
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> </a>
 
-</p>
+<a href="https://www.optimizely.com/" target="blank"><img align="center" src="[https://images.app.goo.gl/Q2CCAz9aiuckx22V7](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.getadigital.com%2Fpartners%2Foptimizely&psig=AOvVaw1GDJ_romo4YGAV74WiJzj9&ust=1705494535813000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODqr7H04YMDFQAAAAAdAAAAABAD)" alt="optimizely" height="50" width="150" /></a>
 
+ </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulazizfe&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="abdulazizfe" /></p>
