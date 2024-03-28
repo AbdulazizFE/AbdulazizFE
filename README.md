@@ -19,4 +19,4 @@
 
 
  </p>
-<p><img align="left" src="https://w7.pngwing.com/pngs/492/902/png-transparent-vuejs-original-wordmark-logo-icon.png" alt="abdulazizfe" /></p>
+
