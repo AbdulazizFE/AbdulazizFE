@@ -21,4 +21,4 @@
 </a>
 
  </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulazizfe&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="abdulazizfe" /></p>
+<p><img align="left" src="https://w7.pngwing.com/pngs/492/902/png-transparent-vuejs-original-wordmark-logo-icon.png" alt="abdulazizfe" /></p>
