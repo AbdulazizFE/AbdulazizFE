@@ -17,8 +17,7 @@
 <a href="https://www.optimizely.com/" target="blank"><img src="https://www.optimizely.com/globalassets/02.-global-images/navigation/optimizely_symbol_full-color.svg" class="primary-footer__logo" width="45" height="45" alt="Optimizely logo symbol" loading="lazy"></a>
 <a href="https://sass-lang.com/" target="blank"><img src="https://sass-lang.com/assets/img/logos/logo.svg" class="primary-footer__logo" width="45" height="45" alt="Sass logo symbol" loading="lazy"></a>
 <a href="https://vuejs.org/" target="blank">
-
-<svg class="logo" viewBox="0 0 128 128" width="24" height="24" data-v-87ac3bb2=""><path fill="#42b883" d="M78.8,10L64,35.4L49.2,10H0l64,110l64-110C128,10,78.8,10,78.8,10z" data-v-87ac3bb2=""></path><path fill="#35495e" d="M78.8,10L64,35.4L49.2,10H25.6L64,76l38.4-66H78.8z" data-v-87ac3bb2=""></path></svg>
+<img src="https://assets.codepen.io/t-1003/internal/avatars/teams/default.png?fit=crop&format=auto&height=256&version=1513627136&width=256" alr="vue.js"/>
 </a>
 
  </p>
